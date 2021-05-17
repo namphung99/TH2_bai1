@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Hồ Chí Minh"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/hcm">
+    </item>
+
+    <item android:title="Hà Nội"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:id="@+id/hn">
+    </item>
+
+    <item android:title="Huế"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:id="@+id/hue">
+    </item>
+
+
+</menu>
